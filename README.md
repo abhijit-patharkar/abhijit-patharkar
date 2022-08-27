@@ -3,13 +3,13 @@
 About Me
 ---
 - I'm currently working as a Staff Engineer at VMware. Before VMware I founded and ran my own technology consulting startup called Scriptuit Techologies.
-- :eyes: I’m interested in Scalable Architectures, CloudOps, DevOps, DevSecOps, Cloud Migrations, Modern Applications, and last but certainly not the least hands-on coding in all major technologies.
+- :eyes: I’m interested in Scalable Architectures, CloudOps, DevOps, DevSecOps, Cloud Migrations, Modern Applications, and last but certainly not the least hands-on coding in all the major technologies.
 - :heart: My current interests are GoLang, APIs and Kubernetes.
-- 🌱 I don't attach myself to a technology or a programming language and perfer to flow with the community.
+- I do not attach myself to a particular technology or a programming language and perfer to flow with the current trends and the community.
 
-### Connect with me:
+Connect with me:
 ---
 
-### Reach me at
+Reach me at
 ---
 :email: abhijitpatharkar@gmail.com &nbsp;&nbsp;&nbsp;  :iphone:+91 98602 02293
