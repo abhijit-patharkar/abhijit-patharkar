@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @abhijit-patharkar
 - 👀 I’m interested in Scalable Architectures, CloudOps, DevOps, DevSecOps, Cloud Migrations, Modern Applications, and last but certainly not the least hands-on coding in any technology.
-- 🌱 I’m currently learning GoLang.
+- 🌱 My current interests are GoLang, APIs and Kubernetes.
+- 🌱 I don't attach myself to a technology or a programming language and perfer to flow with the community.
 - 📫 You can reach me at abhijitpatharkar@gmail.com
