@@ -6,7 +6,7 @@ About Me
 - :eyes: I’m interested in Scalable Architectures, CloudOps, DevOps, DevSecOps, Cloud Migrations, Modern Applications, and last but certainly not the least hands-on coding in all the major technologies.
 - :heart: My current interests are GoLang, APIs and Kubernetes.
 - I do not attach myself to a particular technology or a programming language and perfer to flow with the current trends and the community.
-- Just started blogging <a href="https://medium.com/@abhijit.patharkar" target="_blank">here.</a>
+- Newbie blogger, see my blogs <a href="https://medium.com/@abhijit.patharkar" target="_blank">here.</a>
 
 Connect with me:
 ---
