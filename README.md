@@ -2,7 +2,7 @@
 
 About Me
 ---
-- I'm currently working as a Staff Engineer at VMware. Before VMware I founded and ran my own technology consulting startup called Scriptuit Techologies.
+- I'm currently working as a <a href="https://staffeng.com/" target="_blank">Staff Engineer</a> at VMware. Before VMware I founded and ran my own technology consulting startup called Scriptuit Techologies.
 - :eyes: I’m interested in Scalable Architectures, CloudOps, DevOps, DevSecOps, Cloud Migrations, Modern Applications, and last but certainly not the least hands-on coding in all the major technologies.
 - :heart: My current interests are GoLang, APIs and Kubernetes.
 - I do not attach myself to a particular technology or a programming language and perfer to flow with the current trends and the community.
